@@ -2,8 +2,8 @@
 - Full name - Harshvardhan Singh Karki
 - I am currently in school or college ( whatever u say )
 - I am from India 
--                 - currently staying in Maharastra , Mumbai
--                 - originally from Uttrakhand (Dev Bhoomi) , Nanital , Pithoragarh , Muwani , Peepaltarh
+-                 - currently staying in Maharastra, Mumbai,New Panvel.
+-                 - originally from Uttrakhand (Dev Bhoomi), Nanital, Pithoragarh, Muwani, Peepaltarh.
 - 👀 I’m interested in .....Coding and Programming  
 - 🌱 I’m currently learning .....Python and javascript
 - 💞️ I’m looking to collaborate on .....Youtube and many other platforms
